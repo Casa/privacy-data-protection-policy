@@ -13,7 +13,7 @@ The following HTML template is made available by Casa for other companies to use
 
 <ul>
     <li>This Privacy and Data Protection Policy covers our treatment of Personal Data that we collect about you (a) from you directly, when you register for and use your Account on the Services; (b) from your web browser and/or device, as you interact with the Services generally; and (c) from third party websites and services, including our business partners and service providers.</li>
-    <li>In this Privacy and Data Protection Policy, we describe the various purposes for which we use your Personal Data, as well as the legal bases supporting those purposes. As you’ll read below, the legal basis on which we rely for a given use of your Personal Data may be contractual necessity (<em>i.e.</em>, where we need to use your Personal Data to complete a contract with you), consent (which you must freely give us, and which you can withdraw at any time), and/or certain legitimate business interests of ours or of others, but only where we have determined that those interests are not overridden by your own interests, rights, and freedoms.</li>
+    <li>In this Privacy and Data Protection Policy, we describe the various purposes for which we use your Personal Data, as well as the legal bases supporting those purposes. As you’ll read below, the legal basis on which we rely for a given use of your Personal Data may be contractual necessity (i.e., where we need to use your Personal Data to complete a contract with you), consent (which you must freely give us, and which you can withdraw at any time), and/or certain legitimate business interests of ours or of others, but only where we have determined that those interests are not overridden by your own interests, rights, and freedoms.</li>
     <li>The Services are hosted and operated in the United States and elsewhere throughout the world through us and certain of our service providers. By using the Services, you acknowledge that any Personal Data you provide to us will be hosted on United States servers and servers in other countries.</li>
     <li>If you are using the Services in the European Economic Area, you may have certain rights regarding the Personal Data we collect from you, under the European Union General Data Protection Regulation (“GDPR”), as outlined below, and for purposes of the GDPR, %%COMPANY_NAME%% would be a controller of Personal Data collected from you through the Services. If you have any questions about this Privacy and Data Protection Policy or whether any of the following applies to you, please contact us directly at <a href="mailto:%%EMAIL_ADDRESS%%">%%EMAIL_ADDRESS%%</a>, or at %%MAILING_ADDRESS%%, or at %%PHONE_NUMBER%% if you have any questions or concerns about our collection and use of your Personal Data.</li>
     <li>As noted in our Terms of Service, we do not knowingly collect or solicit Personal Data from anyone under the age of 18. If you are under the age of 18, you are not allowed to use the Services, so please do not access or use the Site or the App, or attempt to send us any Personal Data. If we confirm that we have collected Personal Data from an individual under the age of 16, we will delete that information as quickly as possible.</li>
@@ -44,13 +44,12 @@ The following HTML template is made available by Casa for other companies to use
             <li>email address.</li>
         </ul>
     </li>
-    <li>Any Personal Data contained in User Content that you make available on or through the Services.</li>
+    <li>Any Personal Data that you make available on or through the Services.</li>
     <li>Any Personal Data you provide when you communicate with us or our customer service representatives (so please only provide what is necessary).</li>
     <li>Any Personal Data you provide us when purchasing Products, including your:
         <ul>
             <li>first name, last name, and</li>
             <li>email address, and</li>
-            <li>phone number for international shipments, and</li>
             <li>shipping address.</li>
         </ul>
     </li>
@@ -72,9 +71,9 @@ The following HTML template is made available by Casa for other companies to use
 
 <ul>
     <li>Date of birth, social security number, driver’s ID number or any other government-issued identification,</li>
-    <li>Phone number, except in certain cases to facilitate international delivery,</li>
-    <li>Browsing history outside of the Services, including the page referring you to the Services and/or the page you visit when you exit the Services,</li>
-    <li>Publicly available information about your social media profiles, interests or preferences, or page view information, and</li>
+    <li>Phone number, except when you provide it to us in certain cases to facilitate international delivery,</li>
+    <li>Browsing history outside of the Services, including the pages you visit when you exit the Services,</li>
+    <li>Publicly available information about your social media profiles, interests or preferences, or page view information,</li>
     <li>Event tracking or screen recording in our iOS or Android apps for session replay analytics, and</li>
     <li>Cookies for targeting and marketing purposes.</li>
 </ul>
@@ -91,7 +90,7 @@ The following HTML template is made available by Casa for other companies to use
     <li>We <strong>do not</strong> use similar technologies such as pixel tags, web beacons, clear GIFs, and JavaScript to track nor identify you.</li>
 </ul>
 
-<p>Cookies can either be “session Cookies” or “persistent Cookies”. Session Cookies are temporary Cookies that are stored on your device while you are visiting our Site or using our Services, whereas “persistent Cookies” are stored on your device for a period of time after you leave our Site or Services. The length of time a persistent Cookie stays on your device varies from Cookie to Cookie. We use persistent Cookies to keep a more accurate account of how often you visit our Services, how often you return, how your use of the Services may vary over time. We do not use persistent Cookies to measure the effectiveness of advertising efforts nor to collect information about your online activity after you leave our Services. Your browser may offer you a “Do Not Track” or “DNT” option, which allows you to signal to operators of websites, and web applications, and services that you do not wish such operators to track certain of your online activities over time and across different websites. Because we collect browsing and persistent identifier data, the Services do not support Do Not Track requests at this time, which means that we may collect information about your online activity both while you are using the Services. We <strong>will not</strong> collect information about your online activity after you leave our properties.</p>
+<p>Cookies can either be “session Cookies” or “persistent Cookies”. Session Cookies are temporary Cookies that are stored on your device while you are visiting our Site or using our Services, whereas “persistent Cookies” are stored on your device for a period of time after you leave our Site or Services. The length of time a persistent Cookie stays on your device varies from Cookie to Cookie. We use persistent Cookies to keep a more accurate account of how often you visit our Services, how often you return, how your use of the Services may vary over time. We do not use persistent Cookies to measure the effectiveness of advertising efforts nor to collect information about your online activity after you leave our Services. Your browser may offer you a “Do Not Track” or “DNT” option, which allows you to signal to operators of websites, and web applications, and services that you do not wish such operators to track certain of your online activities over time and across different websites. Because we collect browsing and persistent identifier data, the Services do not support Do Not Track requests at this time, which means that we may collect information about your online activity while you are using the Services. We <strong>will not</strong> collect information about your online activity after you leave our properties.</p>
 
 <p>We do not control third party Cookies. Although some Cookies may have been placed by a third party on your device we do not collect or use such information.</p>
 
@@ -187,7 +186,6 @@ The following HTML template is made available by Casa for other companies to use
 <ul>
     <li>Comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies.</li>
     <li>Protect us, our business or our users, for example to enforce our Terms of Service, prevent spam or other unwanted communications and investigate or protect against fraud.</li>
-    <li>Maintain the security of our products and services.</li>
 </ul>
 
 <p>As part of the Services, you will receive from %%COMPANY_NAME%% email and other communications. You acknowledge and agree that by availing yourself of the Services, you allow %%COMPANY_NAME%% to send you email and other communication that it determines in its sole discretion relate to your use of the Services.</p>
